@@ -1,25 +1,11 @@
-# VANGUARD
+# STAR WARS: VANGUARD / ЗВЁЗДНЫЕ ВОЙНЫ: АВАНГАРД
 
-Пошаговая космическая стратегия с P2P мультиплеером.
+*[eng]* Turn-based strategy with P2P multiplayer for the non-profit fan project [STAR WARS: FALLEN REPUBLIC](https://vk.com/club67532995).  
+*[rus]* Пошаговая стратегия с P2P мультиплеером для некоммерческого фанатского проекта [STAR WARS: FALLEN REPUBLIC](https://vk.com/club67532995).
 
 ## Как играть
 
 1. **Хост** нажимает "Создать игру"
 2. Копирует сгенерированный код-оффер
-3. Отправляет код второму игроку (через мессенджер)
+3. Отправляет код второму игроку
 4. **Гость** вставляет код в поле "Присоединиться"
-5. Начинайте битву!
-
-## Технологии
-- PeerJS (WebRTC) для P2P соединения
-- Чистый JavaScript
-- Canvas для рендеринга
-
-## Играть
-[Играть онлайн](https://meeland.github.io/sw-vanguard/)
-
-## 📦 Установка (для разработки)
-```bash
-git clone https://github.com/meeland/sw-vanguard.git
-cd vanguard
-# Откройте index.html в браузере
