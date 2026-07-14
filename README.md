@@ -1,4 +1,4 @@
-# ![Логотип](favicon.png) STAR WARS: VANGUARD
+# STAR WARS: VANGUARD
 
 *[eng]* Turn-based strategy with P2P multiplayer for the non-profit fan project [STAR WARS: FALLEN REPUBLIC](https://vk.com/club67532995).  
 *[rus]* Пошаговая стратегия с P2P мультиплеером для некоммерческого фанатского проекта [STAR WARS: FALLEN REPUBLIC](https://vk.com/club67532995).
